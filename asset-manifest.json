@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MuluMehreteab/Recipe-tracking/static/css/main.efd6dbff.css",
-    "main.js": "/MuluMehreteab/Recipe-tracking/static/js/main.929a8093.js",
-    "index.html": "/MuluMehreteab/Recipe-tracking/index.html",
-    "main.efd6dbff.css.map": "/MuluMehreteab/Recipe-tracking/static/css/main.efd6dbff.css.map",
-    "main.929a8093.js.map": "/MuluMehreteab/Recipe-tracking/static/js/main.929a8093.js.map"
+    "main.css": "/Recipe-tracking/static/css/main.efd6dbff.css",
+    "main.js": "/Recipe-tracking/static/js/main.929a8093.js",
+    "index.html": "/Recipe-tracking/index.html",
+    "main.efd6dbff.css.map": "/Recipe-tracking/static/css/main.efd6dbff.css.map",
+    "main.929a8093.js.map": "/Recipe-tracking/static/js/main.929a8093.js.map"
   },
   "entrypoints": [
     "static/css/main.efd6dbff.css",
