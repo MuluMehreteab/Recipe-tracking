@@ -4,7 +4,7 @@ import RecipeRow from "./RecipeRow";
 function RecipeList({ recipes, deleteRecipe}) {
   const handleDelete = (index) => {
     deleteRecipe(index);
-  }
+  } 
     
   // TODO: Display the list of recipes using the structure of table that is provided.
 
@@ -20,8 +20,8 @@ function RecipeList({ recipes, deleteRecipe}) {
             <th>Name</th>
             <th>Cuisine</th>
             <th>Photo</th>
-            <th>Ingredients</th>
-            <th>Content</th>
+            <th >Ingredients</th>
+            <th >Content</th>
             <th>Actions</th>
           </tr>
         </thead>
