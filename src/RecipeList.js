@@ -21,7 +21,7 @@ function RecipeList({ recipes, deleteRecipe}) {
             <th>Cuisine</th>
             <th>Photo</th>
             <th >Ingredients</th>
-            <th >Content</th>
+            <th >Preparation</th>
             <th>Actions</th>
           </tr>
         </thead>
