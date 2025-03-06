@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Recipe-tracking/static/css/main.efd6dbff.css",
-    "main.js": "/Recipe-tracking/static/js/main.929a8093.js",
+    "main.js": "/Recipe-tracking/static/js/main.1207a8a0.js",
     "index.html": "/Recipe-tracking/index.html",
     "main.efd6dbff.css.map": "/Recipe-tracking/static/css/main.efd6dbff.css.map",
-    "main.929a8093.js.map": "/Recipe-tracking/static/js/main.929a8093.js.map"
+    "main.1207a8a0.js.map": "/Recipe-tracking/static/js/main.1207a8a0.js.map"
   },
   "entrypoints": [
     "static/css/main.efd6dbff.css",
-    "static/js/main.929a8093.js"
+    "static/js/main.1207a8a0.js"
   ]
 }
